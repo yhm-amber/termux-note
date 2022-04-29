@@ -1,4 +1,4 @@
 
 ~~~ sh
-pkg install -- starship neovim elixir luajit dropbear
+pkg install -- starship neovim elixir luajit dropbear git
 ~~~
