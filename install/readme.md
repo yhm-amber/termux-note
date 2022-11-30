@@ -1,10 +1,10 @@
 
-## 本体
+## app
 
 可以去 f-droid
 
 
-## 软件包
+## init
 
 ~~~ sh
 pkg install -- starship neovim elixir luajit dropbear git
