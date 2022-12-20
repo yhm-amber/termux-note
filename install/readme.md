@@ -11,5 +11,5 @@
 这是我需要的软件，体积总的来说不大。
 
 ~~~ sh
-pkg install -- starship neovim elixir luajit dropbear git
+pkg install -- dust nushell screen starship neovim elixir luajit dropbear git
 ~~~
